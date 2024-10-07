@@ -1,5 +1,6 @@
 # Facial Recognition Attendance System
 
+<img src="Screenshot.png">
 
 ## Overview
 
